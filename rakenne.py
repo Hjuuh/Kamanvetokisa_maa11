@@ -11,7 +11,7 @@ from httplib2 import Http
 def sendMessage(message: str):
     # Get webhook url
     with open("URL.json", "r", encoding="utf-8") as f:
-        url = load(f["URL"])
+        url = load(f)["url"]
 
     bot_message = {"text": message}
 
