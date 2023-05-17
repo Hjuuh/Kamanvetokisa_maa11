@@ -44,7 +44,7 @@
         "Tuut tapaamaan Simon kirjaston ullakolla {} tunnin päästä🥵",
         "Sun koneessa on akkua jäljellä {} prosenttia.\nMeitsi kiittää ja kuittaa.",
         "```Hahahaa otan paljon enemmän tilaa sun näytöltä nyt\n\nja parasta on se, että et voi tehdä asialle yhtään mitään. (ehkä)```",
-        "\"Äänikoetta ei voi tehdä ilman ääntä\"\n-PEL 15.11.",
+        "\"Äänikoetta ei voi tehdä ilman ääntä\"\n-PEL 15.11.{}22",
         "Tää on jo {} kerta kun joku istuu MINUN paikalle.\n\nLyseolaiset vois opetella sellasen asian kuin istumajajärjestys",
         "Siis onks tää jo {}. kerta kun se skootteri on siinä autojen parkipaikalla?",
         "Marraskuu fanit kun ulkona on -{} astetta pakkasta.",
@@ -57,16 +57,15 @@
         "Nää vitsit meni jo vanhaks {} päivää sitten.",
         "En tiiä miten tälläkin tunnilla pitäis keskittyä nukahtamatta {} kertaa.",
         "\"Jos {} vuotiasta sais\" \n-Räty eräässä radiohaastattelussa kysyttäessä seuraavan vuoden tavoitteista",
-	"Se ois sit taas tää tunti kestäny jo 2 * {} minuuttia.",
-	"Se ois sit {} minuutin päästä syömään!",
-	"En oikeesti enää jaksa {} minuuttiakaan.",
-	"Jag älskar ruototi {} kertaa päivässä.",
-	"Elias sanonu n-sanan tänään {} kertaa",
-	"Topi saa kirjoitustaidon vastauksen valmiiksi {} päivässä",
-	"Okei lähen syömään {} minuutin päästä"
+        "Se ois sit taas tää tunti kestäny jo 2 * {} minuuttia.",
+        "Se ois sit {} minuutin päästä syömään!",
+        "En oikeesti enää jaksa {} minuuttiakaan.",
+        "Jag älskar ruototi {} kertaa päivässä.",
+        "Elias sanonu n-sanan tänään {} kertaa",
+        "Topi saa kirjoitustaidon vastauksen valmiiksi {} päivässä",
+        "Okei lähen syömään {} minuutin päästä"
     ],
-    
-    "loppulauseet" : [
+    "loppulauseet": [
         "Se ois sit lomille lompsis!",
         "Oisko se sit viikonlopun viettoon!",
         "Lähetää vittuu täält keilahallist!",
@@ -75,7 +74,7 @@
         "Ihminen on käynyt kuussa mutta se ei siltikään jaksa olla tällä tunnilla yliaikaa😎",
         "Sit mäkkärii/Candy Kink-karkkeja ostamaan.",
         "Se ois sit ens tunnin jälkeen kotia kohti.",
-        "Kinkku karkas!\nLähetää vittuu täält", 
-	"Kyl vituttais jos pitäs viel jäähä tänne."
+        "Kinkku karkas!\nLähetää vittuu täält",
+        "Kyl vituttais jos pitäs viel jäähä tänne."
     ]
 }
